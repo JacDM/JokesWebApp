@@ -16298,6 +16298,11 @@
   "RootNamespace": "JokesWebApp",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\Views\\Jokes\\Create.cshtml",
+      "TargetPath": "Views\\Jokes\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -16328,13 +16333,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\Views\\Jokes\\Edit.cshtml",
+      "TargetPath": "Views\\Jokes\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\Views\\Jokes\\Details.cshtml",
+      "TargetPath": "Views\\Jokes\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\Views\\Jokes\\Delete.cshtml",
+      "TargetPath": "Views\\Jokes\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\Views\\Jokes\\Index.cshtml",
+      "TargetPath": "Views\\Jokes\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
