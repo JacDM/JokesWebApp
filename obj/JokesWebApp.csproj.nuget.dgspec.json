@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\JokesWebApp.csproj": {}
+    "c:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\JokesWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\JokesWebApp.csproj": {
+    "c:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\JokesWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\JokesWebApp.csproj",
+        "projectUniqueName": "c:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\JokesWebApp.csproj",
         "projectName": "JokesWebApp",
-        "projectPath": "C:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\JokesWebApp.csproj",
+        "projectPath": "c:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\JokesWebApp.csproj",
         "packagesPath": "C:\\Users\\jackd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\obj\\",
+        "outputPath": "c:\\Users\\jackd\\OneDrive - Heriot-Watt University\\Year_2\\Summer\\C#\\ASP.NET Tutorial\\JokesWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jackd\\AppData\\Roaming\\NuGet\\NuGet.Config",
